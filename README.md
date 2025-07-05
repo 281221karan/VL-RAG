@@ -26,7 +26,7 @@ Every thing is already setup for you, you just need to click **RUN**
 
 Just visit the link and follow the **video** given below:
 
-**https://www.youtube.com/watch?v=0lM2HHsEQ-w**
+**[https://www.youtube.com/watch?v=0lM2HHsEQ-w](https://www.dropbox.com/scl/fi/nfqubppfxtqn3ww179hbi/VL-RAG-tutorial.mp4?rlkey=00e3jj0ncdevb1vdj2f516o30&st=743wrcca&dl=0)**
 
 this setup does not required any type of *GPU*, its running on cloud, the only thing that required is **Login** here **https://lightning.ai/**
 
