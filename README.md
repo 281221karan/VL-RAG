@@ -18,7 +18,7 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 ---
 # SETUP
 
-#CLOUD
+## CLOUD
 
 Every thing is already setup for you, you just need to click **RUN**
 
