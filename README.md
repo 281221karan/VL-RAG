@@ -17,4 +17,4 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 
 ---
 ## SETUP
-`https://lightning.ai/bindaas281221/vision-model/studios/vl-rag/code?turnOn=true`
+**https://lightning.ai/bindaas281221/vision-model/studios/vl-rag/code?turnOn=true**
