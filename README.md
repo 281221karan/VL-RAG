@@ -16,7 +16,7 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 - 💬 Clean UI with
 
 ---
-## SETUP
+# SETUP
 Every thing is already setup for you, you just need to click **RUN**
 
 **https://lightning.ai/bindaas281221/vision-model/studios/vl-rag/code?turnOn=true**
@@ -27,7 +27,7 @@ Just visit the link and follow the **video** given below:
 
 this setup does not required any type of *GPU*, its running on cloud, the only thing that required is **Login** here **https://lightning.ai/**
 
-# LOCALLY
+## LOCALLY
 **Requirements**
 
 at least **48GB** GPU memory
