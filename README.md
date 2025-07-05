@@ -13,8 +13,32 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 - 🗃️ Upload **PDF**, **IMAGES** files
 - 🔄 **Document-aware question answering**
 - 📎 **Gemini API fallback** when no document is uploaded
-- 💬 Clean UI with **typing animation**, and **status indicators**
+- 💬 Clean UI with
 
 ---
 ## SETUP
+Every thing is already setup for you, you just need to click **RUN**
+
 **https://lightning.ai/bindaas281221/vision-model/studios/vl-rag/code?turnOn=true**
+
+Just visit the link and follow the **video** given below:
+
+**https://www.youtube.com/watch?v=0lM2HHsEQ-w**
+
+this setup does not required any type of *GPU*, its running on cloud, the only thing that required is **Login** here **https://lightning.ai/**
+
+# LOCALLY
+**Requirements**
+
+at least **48GB** GPU memory
+
+1. `git clone https://github.com/281221karan/VL-RAG`
+
+2. `pip install -r requirements.txt`
+
+3. `streamlit run main.py`
+
+it will automatically download the model
+
+---
+I think thats all
