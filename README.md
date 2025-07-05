@@ -4,6 +4,7 @@ A powerful, multimodal chatbot that combines **Vision-Language Models (VLMs)** a
 
 Built using **Streamlit**, this chatbot also supports fallback to **Google Gemini API** when no document is uploaded.
 
+Easy to **Setup**
 ---
 
 ## 🚀 Features
