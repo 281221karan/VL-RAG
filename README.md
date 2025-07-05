@@ -16,12 +16,5 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 - 💬 Clean UI with **typing animation**, and **status indicators**
 
 ---
-
-## 📦 Requirements
-
-Install the dependencies:
-
-pip install -r requirements.txt
-
----
-**SETUP**
+## SETUP
+`https://lightning.ai/bindaas281221/vision-model/studios/vl-rag/code?turnOn=true`
